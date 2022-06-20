@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<!--🎓 Bachelor's Degree in Computer Engineering at the University of Calabria.
+-->
+
 <!--
 **mariocarbone/mariocarbone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
