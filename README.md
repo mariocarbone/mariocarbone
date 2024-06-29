@@ -4,7 +4,7 @@
 <p align="center">
     <b>Welcome to my Github Page!</b><br><br>
     I'm Mario Carbone.<br>
-    🎓I'm currently studying Computer Engineering at University of Calabria (Italy)<br>
+    🎓I'm graduated in Computer Engineering at University of Calabria (Italy)<br>
     <br>
 </p>
 
